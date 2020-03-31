@@ -12,7 +12,7 @@ Add paper citation
 The repository includes an .rds file with a data.frame that includes the metadata of the Seurat object and the UMAP coordinates.
 
 ```{r, eval=FALSE}
-KidneyOrganoid<-readRDS("KidneyOrganoid_MetaData.rds")
+KidneyOrganoid_MD<-readRDS("KidneyOrganoid_MetaData.rds")
 ```
 
 The raw data can be retrieved from GEO under the accession number [GSEXXXX](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE108349)
