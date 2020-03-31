@@ -61,7 +61,6 @@ ElbowPlot(KidneyOrganoid,ndims = 30)
 
 ## Clustering
 KidneyOrganoid <- FindNeighbors(KidneyOrganoid, dims = 1:20)
-# Test changes in resolution
 KidneyOrganoid <- FindClusters(KidneyOrganoid, resolution = 0.4)
 
 # Non Linear Dimensional Reduction
