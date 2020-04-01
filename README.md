@@ -15,4 +15,4 @@ The repository includes an .rds file with a data.frame that includes the metadat
 KidneyOrganoid_MD<-readRDS("KidneyOrganoid_MetaData.rds")
 ```
 
-The raw data can be retrieved from GEO under the accession number [GSEXXXX](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE108349)
+The raw data can be retrieved from GEO under the accession number [GSE147863](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE147863)
