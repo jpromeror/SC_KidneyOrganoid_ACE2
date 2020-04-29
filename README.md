@@ -6,7 +6,7 @@ This repository includes the script for the analysis of the single cell kidney o
 *"Inhibition of SARS-CoV-2 infections in engineered human tissues using clinical-grade soluble human ACE2"*.
 
 # Citation
-Add paper citation
+Monteil, Vanessa, et al. "Inhibition of SARS-CoV-2 infections in engineered human tissues using clinical-grade soluble human ACE2." Cell (2020).
 
 # Data
 The repository includes an .rds file with a data.frame that includes the metadata of the Seurat object and the UMAP coordinates.
